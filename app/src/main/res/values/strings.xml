@@ -1,0 +1,10 @@
+<resources>
+    <!-- Main Activity -->
+    <string name="app_name">Simple Volume Calculator</string>
+    <string name="main_activity_length_label">Length</string>
+    <string name="main_activity_width_label">Width</string>
+    <string name="main_activity_height_label">Height</string>
+    <string name="main_activity_count_btn_label">Count</string>
+    <string name="main_activity_result_tv_label">Result</string>
+    <!-- /Main Activity -->
+</resources>
